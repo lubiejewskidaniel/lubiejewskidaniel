@@ -25,7 +25,8 @@ Over the course of my degree, I’ve gained hands-on experience with:
 
 - 🌱 Currently diving deeper into **Advanced React**
 - 📘 Planning to extend my **Java** skills with more advanced backend concepts
-- 💼 Actively **seeking a junior role or internship** in software or web development
+- 💼 I'm actively seeking **entry-level roles** or Junior position in software or web development.  
+I'm eager to join a team where I can learn, contribute, and grow into a well-rounded developer.
 
 ---
 

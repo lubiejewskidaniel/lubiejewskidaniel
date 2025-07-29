@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="[https://avatars.githubusercontent.com/u/109513325?v=4](https://github.com/lubiejewskidaniel/lubiejewskidaniel/blob/main/meSmaller.png)" width="160" alt="Daniel Lubiejewski avatar"/>
+</p>
+
+<h1 align="center">Hi, I’m Daniel Lubiejewski 👋</h1>
+
+<p align="center">
+  Aspiring software developer | BSc Computing Student | Passionate about web & software engineering  
+</p>
+
+<p align="center">
+  📍 Harlow, UK • 📧 <a href="mailto:LubiejewskiDaniel@gmail.com">LubiejewskiDaniel@gmail.com</a> • 🌐 <a href="https://www.daniellubiejewski.com">daniellubiejewski.com</a>
+</p>
+
+---
+
 # 👋 Hi, I’m Daniel Lubiejewski
 
 I'm a 39-year-old aspiring software developer, currently entering my **third year of BSc Computing**. Although I started my academic journey three years ago, my passion for technology and problem-solving has been with me far, far longer.

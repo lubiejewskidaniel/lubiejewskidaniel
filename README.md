@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Daniel Lubiejewski
 
-I'm a 39-year-old aspiring software developer, currently entering my **third year of BSc Computing**. Although I started my academic journey three years ago, my passion for technology and problem-solving has been with me far longer.
+I'm a 39-year-old aspiring software developer, currently entering my **third year of BSc Computing**. Although I started my academic journey three years ago, my passion for technology and problem-solving has been with me far, far longer.
 
 ---
 

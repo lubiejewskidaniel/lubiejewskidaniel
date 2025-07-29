@@ -2,7 +2,7 @@
   <img src="meSmaller.png" width="160" alt="Daniel Lubiejewski avatar"/>
 </p>
 
-<h1 align="center">Hi, I’m Daniel Lubiejewski 👋</h1>
+<h1 align="center">Hi, my name is Daniel Lubiejewski 👋</h1>
 
 <p align="center">
   Aspiring software developer | BSc Computing Student | Passionate about web & software engineering  

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/109513325?v=4](https://github.com/lubiejewskidaniel/lubiejewskidaniel/blob/main/meSmaller.png)" width="160" alt="Daniel Lubiejewski avatar"/>
+  <img src="meSmaller.png" width="160" alt="Daniel Lubiejewski avatar"/>
 </p>
 
 <h1 align="center">Hi, I’m Daniel Lubiejewski 👋</h1>

@@ -2,34 +2,37 @@
   <img src="meSmaller.png" width="160" alt="Daniel Lubiejewski avatar"/>
 </p>
 
-<h1 align="center">Daniel Lubiejewski 👋</h1>
+<h1 align="center">Daniel Lubiejewski</h1>
 
 <p align="center">
-  Aspiring software developer | BSc Computing Student | Passionate about web & software engineering  
+  Junior Software Developer | BSc Computing (Final Year 3) | Full-Stack Focus
 </p>
 
 <p align="center">
-  📍 Harlow, UK • 📧 <a href="mailto:LubiejewskiDaniel@gmail.com">LubiejewskiDaniel@gmail.com</a> • 🌐 <a href="https://www.daniellubiejewski.com">daniellubiejewski.com</a>
+  📍 Harlow, UK • 📧 LubiejewskiDaniel@gmail.com • 🌐 www.daniellubiejewski.com
 </p>
 
 ---
 
 # 👋 Hi, my name is Daniel Lubiejewski
 
-I'm a 39-year-old aspiring software developer, currently entering my **third year of BSc Computing**. Although I started my academic journey three years ago, my passion for technology and problem-solving has been with me far, far longer.
-
 ---
 
 ## 💻 About Me
 
-I'm enthusiastic about all aspects of **software development** and **web application engineering** — from front-end design to back-end logic and data-driven decision making.
+I'm a final-year BSc Computing student with a strong interest in full-stack software development.  
+I build practical, data-driven web applications using modern JavaScript and Java technologies.
+
+I focus on writing clean, maintainable code and understanding how systems work end-to-end — from UI to database.
+
+Currently seeking a **Junior Software Developer** role in the UK.
 
 Over the course of my degree, I’ve gained hands-on experience with:
 
 - **Languages & Tools**:  
-  `C`, `Java`, `Python`, `HTML`, `CSS`, `JavaScript (ES6+)`, `SQL`
+  `C`, `Java + Maven`, `Python`, `HTML`, `CSS`, `JavaScript (ES6+)`, `SQL`, `SQLite`
 - **Frameworks & Technologies**:  
-  `Node.js`, `Express.js`, `React`, `Servlets`, `JDBC`, `JSP`, `SQLite`
+  `Node.js`, `Express.js`, `React`, `Servlets`, `JDBC`, `JSP`
 - **Data & Visualization**:  
   `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Advanced Excel`, `Tableau`
 - **Other Skills**:  

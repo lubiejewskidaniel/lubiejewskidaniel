@@ -38,7 +38,7 @@ Over the course of my degree, I’ve gained hands-on experience with:
 - **Other Skills**:  
   REST API development, data analysis, backend integration, full-stack projects
 
----
+
 
 ## 🚀 What I’m Up To
 

@@ -20,10 +20,10 @@
 
 ## 💻 About Me
 
-I'm a final-year BSc Computing student with a strong interest in full-stack software development.  
-I build practical, data-driven web applications using modern JavaScript and Java technologies.
+Junior Software Developer focused on building full-stack web applications using React, Next.js and Node.js.
+Experienced in authentication, REST APIs and database-driven systems.
 
-I focus on writing clean, maintainable code and understanding how systems work end-to-end — from UI to database.
+I focus on writing clean, maintainable code and understanding how systems work end-to-end - from UI to database.
 
 Currently seeking a **Junior Software Developer** role in the UK.
 
@@ -45,7 +45,18 @@ Over the course of my degree, I’ve gained hands-on experience with:
 - 🌱 Currently diving deeper into **Advanced React** and **PHP Basics**
 - 📘 Planning to extend my **Java** skills with more advanced backend concepts
 - 💼 I'm actively seeking **entry-level roles** or Junior position in software or web development.  
-I'm eager to join a team where I can learn, contribute, and grow into a well-rounded developer.
+I am looking to join a collaborative development team where I can contribute to real-world projects and continue growing as a software developer.
+
+---
+
+## 🔥 Featured Projects
+
+### 🏥 Community Pharmacies Online Ordering Platform (CPOOP)
+Full-stack Next.js application with Firebase Authentication, role-based access control and real-time Firestore integration.
+
+**Tech:** Next.js, React, Firebase, Firestore, Leaflet  
+🔗 Live Demo: [https://...  ](https://cpoop-8hfs26m59-daniels-projects-536097e1.vercel.app/)
+🔗 Repository: [https://github.com/...](https://github.com/lubiejewskidaniel/CPOOP)
 
 ---
 

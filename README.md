@@ -5,7 +5,7 @@
 <h1 align="center">Daniel Lubiejewski</h1>
 
 <p align="center">
-  Junior Software Developer | Full-Stack Focus | UK
+  Software Developer | Full-Stack Focus | UK
 </p>
 
 <p align="center">
@@ -29,6 +29,7 @@ Currently seeking a **Junior Software Developer** role in the UK.
 ### 🏥 Community Pharmacies Online Ordering Platform (CPOOP)
 
 Full-stack Next.js application with Firebase Authentication, role-based access control and real-time Firestore integration.
+Designed to support multiple user roles with secure, real-time stock management.
 
 **Tech:** Next.js • React • Firebase • Firestore • Leaflet  
 🔗 [Live Demo](https://cpoop-8hfs26m59-daniels-projects-536097e1.vercel.app/)  
@@ -43,6 +44,15 @@ Full-stack Next.js application with Firebase Authentication, role-based access c
 **Backend:** Node.js, Express, REST APIs  
 **Databases:** MySQL, SQLite, Firebase  
 **Tools:** Git, GitHub, Vercel
+
+---
+
+## 💡 What I Bring
+
+- Full-stack project delivery
+- REST API design & integration
+- Authentication & security implementation
+- Clean, maintainable code
 
 ---
 

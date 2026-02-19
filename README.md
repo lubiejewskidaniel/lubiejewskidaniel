@@ -4,6 +4,8 @@
 
 <h1 align="center">Daniel Lubiejewski</h1>
 
+---
+
 <p align="center">
   Junior Software Developer | BSc Computing (Final Year 3) | Full-Stack Focus
 </p>
